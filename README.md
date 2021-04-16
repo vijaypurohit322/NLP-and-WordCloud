@@ -3,7 +3,7 @@ In this repo. I'm using NLP to create Word Cloud.
 ----------
 
 
-![Screenshot of Web App](word_cloud.PNG)
+![Screenshot of Web App](word_cloud.png)
 
 ## File Description
 ~~~~~~~
@@ -12,7 +12,7 @@ In this repo. I'm using NLP to create Word Cloud.
           |-- README
 ~~~~~~~
 ## Installation
-Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries.
+Must runing with Python 3 with libraries of nltk, matplotlib, ngrams and wordcloud libraries.
 
 
 ## File Descriptions
