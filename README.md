@@ -28,4 +28,4 @@ Must runing with Python 3 with libraries of nltk, matplotlib, ngrams and wordclo
 
 ## General Notes
 
-To  visit my GitHub repository click [here](https://github.com/vijaypurohit322/).
+For Regular Updates [Follow me](https://github.com/vijaypurohit322/).
