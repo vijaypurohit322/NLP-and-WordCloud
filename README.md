@@ -1,7 +1,7 @@
 # NLP and WordCloud
 
 In this repo. I'm using NLP to create Word Cloud.
-----------
+
 ![Screenshot of Web App](word_cloud.png)
 
 ## File Description
