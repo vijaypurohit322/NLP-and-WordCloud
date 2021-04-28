@@ -13,7 +13,6 @@ In this repo. I'm using NLP to create Word Cloud.
 ## Installation
 Must runing with Python 3 with libraries of nltk, matplotlib, ngrams and wordcloud libraries.
 
-
 ## File Descriptions
 1. NLP-Notebook file including all the code you can and using jupyter Notebook.
 2. README file
