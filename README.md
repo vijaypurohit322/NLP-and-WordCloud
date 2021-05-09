@@ -27,6 +27,6 @@ Must runing with Python 3 with libraries of nltk, matplotlib, ngrams and wordclo
         `press Shift + Enter key to execute or select from menu Cells -> Run cell `
 
 
-## General Notes
+### General Notes
 
 For Regular Updates [Follow me](https://github.com/vijaypurohit322/).
